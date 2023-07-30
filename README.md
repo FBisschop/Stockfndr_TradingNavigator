@@ -1,6 +1,8 @@
 # Stockfndr_TradingNavigator
  Aankoop- en verkoopsignalen dmv TradingNavigator
 
+ DIT IS EEN DEMO VERSIE 1.2
+
  This program will check several buildin lists of stocks (Nasdaq, Smallcap, AEX, low PEG stocks and indices) and generate buy and sell signals. 
  The algorithm is TradingNavigator. For more info, goto beleggen.com
 
